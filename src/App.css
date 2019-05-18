@@ -31,3 +31,9 @@
     transform: rotate(360deg);
   }
 }
+.carte{
+  display: inline-block;
+  border-width: 3px;
+  border-style: solid;
+  margin: 3px
+}
